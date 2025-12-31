@@ -1,4 +1,4 @@
-## 👟 FootwearHub – QA
+# 👟 FootwearHub – QA
 
 FootwearHub – QA is a production-style QA automation project created after the completion of the FootwearHub application development.
 This repository demonstrates real-world QA practices using Selenium, Cucumber (BDD), Maven, and Allure Reporting.
