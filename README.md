@@ -148,6 +148,13 @@ Ensured navigation stability
 
 ---
 
+## 📤 Outputs
+
+<video src="https://github.com/user-attachments/assets/18fbf471-8047-4fc9-9021-4d2e587c5073" controls width="100%"></video>
+
+---
+
+
 👤 Author
 
 Swarnavo Pramanik
